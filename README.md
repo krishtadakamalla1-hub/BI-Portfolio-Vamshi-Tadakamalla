@@ -1,7 +1,10 @@
 # BI Portfolio – Vamshi Tadakamalla
-Portfolio of end-to-end BI case studies showcasing my capabilities in SQL, Power BI, Power Query, DAX, and storytelling.
+A Business Intelligence portfolio demonstrating end-to-end skills in:
+- SQL, Power Query, Data Modeling
+- Power BI (DAX, Dashboard Storytelling)
+- Power BI Service Deployment (row-level security, scheduled refresh)
 
 ## Projects
-- [Sales Analytics — Olist (End-to-End)](./Sales-Analytics/README.md)
-- *(Upcoming)* HR Analytics
-- *(Upcoming)* SQL Challenge Case Studies
+- [Sales Analytics — Olist (End-to-End BI)](./Sales-Analytics/README.md)
+- *(Coming Soon)* HR Analytics Case Study
+- *(Coming Soon)* SQL Challenge Solutions
